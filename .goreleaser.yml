@@ -23,7 +23,7 @@ brews:
     name: askcloudhelloworld
     homepage: https://github.com/c3smonkey/askcloudhelloworld/
     repository:
-      owner: c3smoneky
+      owner: c3smonkey
       name: homebrew-c3smonkey
     commit_author:
       name: Marcel Widmer
