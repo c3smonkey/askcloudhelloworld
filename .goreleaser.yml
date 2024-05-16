@@ -20,9 +20,9 @@ universal_binaries:
 brews:
   -
     name: askcloudhelloworld
-    homepage: https://github.com/c3smoneky/askcloudhelloworld
-    tap:
-      owner: askcloudarchitech
+    homepage: https://github.com/c3smonkey/askcloudhelloworld/
+    repository:
+      owner: c3smoneky
       name: homebrew-c3smoneky
     commit_author:
       name: Marcel Widmer
@@ -30,3 +30,4 @@ brews:
 
 checksum:
   name_template: 'checksums.txt'
+
