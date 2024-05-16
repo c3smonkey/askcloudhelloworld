@@ -23,10 +23,10 @@ brews:
     homepage: https://github.com/c3smoneky/askcloudhelloworld
     tap:
       owner: askcloudarchitech
-      name: homebrew-askcloudarchitech
+      name: homebrew-c3smoneky
     commit_author:
-      name: gmorse81
-      email: gmorse81@gmail.com
+      name: Marcel Widmer
+      email: marzelwidmer@gmail.com
 
 checksum:
   name_template: 'checksums.txt'
