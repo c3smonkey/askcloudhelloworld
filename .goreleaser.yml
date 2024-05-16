@@ -20,7 +20,7 @@ universal_binaries:
 brews:
   -
     name: askcloudhelloworld
-    homepage: https://github.com/askcloudarchitech/askcloudhelloworld
+    homepage: https://github.com/c3smoneky/askcloudhelloworld
     tap:
       owner: askcloudarchitech
       name: homebrew-askcloudarchitech
